@@ -1,0 +1,15 @@
+h1 {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-image: linear-gradient(37deg, blue, aqua);
+    text-align:center;
+ }
+ h3 {
+     font-size:4vw;
+     color: red;
+ }
+ h4 {
+     font-size: 3vw;
+ }
+ 
+ 
+ 
