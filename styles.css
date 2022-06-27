@@ -4,11 +4,12 @@ h1 {
     text-align:center;
  }
  h3 {
-     font-size:4vw;
-     color: red;
+     font-size:53px;
+     color: rgb(57, 170, 207);
  }
  h4 {
-     font-size: 3vw;
+     font-size: 40px;
+     text-decoration: underline;
  }
  
  
